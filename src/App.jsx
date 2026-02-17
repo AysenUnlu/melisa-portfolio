@@ -422,9 +422,7 @@ function About() {
         <div className="divider" />
 
         <h4>Contact</h4>
-        <p className="muted">
-          Email me
-        </p>
+        
         <div className="contactRow">
           <a className="primaryLink" href="mailto:aysenunlu@gmail.com">Email</a>
         </div>
