@@ -404,7 +404,7 @@ function About() {
       <div className="pageHead">
         <h2>About Me</h2>
         <p className="muted">
-          You can make this as personal or as private as you want.
+          I don’t see the world the way everyone else does. I see it in more detail.
         </p>
       </div>
 
@@ -423,10 +423,10 @@ function About() {
 
         <h4>Contact</h4>
         <p className="muted">
-          If you want a contact section, it’s safest to use a parent email or a form link.
+          Contact
         </p>
         <div className="contactRow">
-          <a className="primaryLink" href="mailto:parent@email.com">Email</a>
+          <a className="primaryLink" href="mailto:aysenunlu@gmail.com">Email</a>
           <a className="ghostLink" href="https://linktr.ee/" target="_blank" rel="noreferrer">Linktree</a>
         </div>
       </div>
