@@ -423,11 +423,10 @@ function About() {
 
         <h4>Contact</h4>
         <p className="muted">
-          Contact
+          Email me
         </p>
         <div className="contactRow">
           <a className="primaryLink" href="mailto:aysenunlu@gmail.com">Email</a>
-          <a className="ghostLink" href="https://linktr.ee/" target="_blank" rel="noreferrer">Linktree</a>
         </div>
       </div>
     </section>
