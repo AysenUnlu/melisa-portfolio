@@ -71,27 +71,27 @@ This page is where I share my favorite shots, artworks, and videos.`,
   artwork: [
     // Replace with your art images later
    
-    { title: "Singing Bird", src: "./public/photos/Bird1.jpg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category: "Birds" },
-    { title: "Woodpecker", src: "./public/photos/Bird2.jpg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Birds" },
-    { title: "Bird Perched on a Branch ", src: "./public/photos/Bird3.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Ink", category:"Birds" },
-    { title: "Bird from Below ", src: "./public/photos/Bird4.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Watercolor", category:"Birds" },
-    { title: "Pinecone ", src: "./public/photos/Pine.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Ink", category:"Plants" },
-    { title: "Peppers ", src: "./public/photos/Pepper.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Ink", category:"Plants" },
-    { title: "Orchid ", src: "./public/photos/Plant1.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Ink", category:"Plants" },
-    { title: "Bicycle ", src: "./public/photos/Bicycle.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Things" },
-    { title: "Hands ", src: "./public/photos/Hands.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Things" },
-    { title: "Lazy Susan ", src: "./public/photos/Lazy.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Ink", category:"Things" },
-    { title: "Models", src: "./public/photos/Silly.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Things" },
-    { title: "Nature Morte", src: "./public/photos/still.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Things" },
-    { title: "Shapes", src: "./public/photos/Shadow1.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Shadows" },
-    { title: "On the Kitchen Table", src: "./public/photos/Shadow2.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Shadows" },
-    { title: "Melisa's rendition of The Gleaners — Jean-François Millet (1857)", src: "./public/photos/Shadow3.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Shadows" },
-    { title: "Self", src: "./public/photos/Self1.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Characters" },
-    { title: "Cool Guy", src: "./public/photos/Char1.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Characters" },
-    { title: "Friends", src: "./public/photos/self2.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Characters" },
-    { title: "Peace", src: "./public/photos/Char3.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Characters" },
-    { title: "Love", src: "./public/photos/Char4.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Characters" },
-    { title: "Laughter", src: "./public/photos/Char5.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Characters" },
+    { title: "Singing Bird", src: "/photos/Bird1.JPG?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category: "Birds" },
+    { title: "Woodpecker", src: "/photos/Bird2.JPG?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Birds" },
+    { title: "Bird Perched on a Branch ", src: "/photos/Bird3.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Ink", category:"Birds" },
+    { title: "Bird from Below ", src: "/photos/Bird4.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Watercolor", category:"Birds" },
+    { title: "Pinecone ", src: "/photos/Pine.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Ink", category:"Plants" },
+    { title: "Peppers ", src: "/photos/Pepper.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Ink", category:"Plants" },
+    { title: "Orchid ", src: "/photos/Plant1.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Ink", category:"Plants" },
+    { title: "Bicycle ", src: "/photos/Bicycle.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Things" },
+    { title: "Hands ", src: "/photos/Hands.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Things" },
+    { title: "Lazy Susan ", src: "/photos/Lazy.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Ink", category:"Things" },
+    { title: "Models", src: "/photos/Silly.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Things" },
+    { title: "Nature Morte", src: "/photos/still.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Things" },
+    { title: "Shapes", src: "/photos/Shadow1.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Shadows" },
+    { title: "On the Kitchen Table", src: "/photos/Shadow2.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Shadows" },
+    { title: "Melisa's rendition of The Gleaners — Jean-François Millet (1857)", src: "/photos/Shadow3.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Shadows" },
+    { title: "Self", src: "/photos/Self1.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Characters" },
+    { title: "Cool Guy", src: "/photos/Char1.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Characters" },
+    { title: "Friends", src: "/photos/self2.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Characters" },
+    { title: "Peace", src: "/photos/Char3.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Characters" },
+    { title: "Love", src: "/photos/Char4.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Characters" },
+    { title: "Laughter", src: "/photos/Char5.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Characters" },
 
   ],
   videos: [
@@ -113,7 +113,7 @@ function Nav({ section, setSection, query, setQuery }) {
     <header className="nav">
       <div className="navInner">
         <div className="brand">
-          <img className="logo" src="./public/photos/me.JPG?auto=format&fit=crop&w=1200&q=80"></img>
+          <img className="logo" src="/photos/me.JPG?auto=format&fit=crop&w=1200&q=80"></img>
           <div>
             <div className="brandName">{SITE.name}</div>
             <div className="brandTag">{SITE.tagline}</div>
@@ -290,7 +290,7 @@ function Photography({ onOpen, query }) {
         rel="noopener noreferrer"
         className="primary"
       >
-        <img src= "./public/photos/screenshot.jpeg?auto=format&fit=crop&w=1200&q=80"/>
+        <img src= "/photos/screenshot.jpeg?auto=format&fit=crop&w=1200&q=80"/>
         <p>Open Full Photography Gallery</p>
        
       </a>)
