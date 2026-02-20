@@ -105,7 +105,7 @@ This page is where I share my favorite shots, artworks, and videos.`,
     { title: "Elementary School Orchestra", type: "youtube", url: "https://www.youtube.com/embed/UhWg0MWcr3E" },
     { title: "Solo Concert", type: "youtube", url: "https://www.youtube.com/embed/DZjLiqWXNQo" },
     { title: "Orchestra", type: "youtube", url: "https://www.youtube.com/embed/v-2SrTkpNtw" },
-    { title: "Sweet Child Of Mine - Guns and Roses", type: "youtube", url: "https://www.youtube.com/embed/W5gXV4f0_UA" },
+    { title: "Sweet Child Of Mine", type: "youtube", url: "https://www.youtube.com/embed/HvZUXszc-7U" },
     { title: "Oriental", type: "youtube", url: "https://www.youtube.com/embed/rKGiX0Tuhvo" },
 
 
