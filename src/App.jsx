@@ -100,7 +100,9 @@ This page is where I share my favorite shots, artworks, and videos.`,
     { title: "Solo concert 2024", type: "youtube", url: "https://www.youtube.com/embed/_DrIq9_ipvQ?si=BtDlQIxNust560Xz" },
     { title: "Solo concert 2023", type: "youtube", url: "https://www.youtube.com/embed/xA3rXdMUBlI?si=9honI5L1YBxvIBIS" },
     { title: "Solo concert 2022", type: "youtube", url: "https://www.youtube.com/embed/dXYZnanu6nw" },
-    { title: "Pitch Test", type: "youtube", url: "https://www.youtube.com/embed/wUUO2m9pvBs" }
+    { title: "Pitch Test", type: "youtube", url: "https://www.youtube.com/embed/wUUO2m9pvBs" },
+    { title: "Elementary School Orchestra", type: "youtube", url: "https://www.youtube.com/embed/UhWg0MWcr3E" }
+
 
                                                            
 
