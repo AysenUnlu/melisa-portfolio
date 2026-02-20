@@ -86,12 +86,12 @@ This page is where I share my favorite shots, artworks, and videos.`,
     { title: "Shapes", src: "/photos/Shadow1.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Shadows" },
     { title: "On the Kitchen Table", src: "/photos/Shadow2.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Shadows" },
     { title: "Melisa's rendition of The Gleaners — Jean-François Millet (1857)", src: "/photos/Shadow3.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Shadows" },
-    { title: "Self", src: "/photos/self1.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Characters" },
+    /*{ title: "Self", src: "/photos/self1.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Characters" },
     { title: "Cool Guy", src: "/photos/Char1.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Characters" },
     { title: "Friends", src: "/photos/self2.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Characters" },
     { title: "Peace", src: "/photos/char3.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Characters" },
     { title: "Love", src: "/photos/char4.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Characters" },
-    { title: "Laughter", src: "/photos/char5.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Characters" },
+    { title: "Laughter", src: "/photos/char5.jpeg?auto=format&fit=crop&w=1200&q=80", medium: "Pencil", category:"Characters" },*/
 
   ],
   videos: [
@@ -99,7 +99,9 @@ This page is where I share my favorite shots, artworks, and videos.`,
     { title: "Academy Philarmonic Orchestra", type: "youtube", url: " https://www.youtube.com/embed/g9FxQV4LZos" },
     { title: "Solo concert 2024", type: "youtube", url: "https://www.youtube.com/embed/_DrIq9_ipvQ?si=BtDlQIxNust560Xz" },
     { title: "Solo concert 2023", type: "youtube", url: "https://www.youtube.com/embed/xA3rXdMUBlI?si=9honI5L1YBxvIBIS" },
-    { title: "Solo concert 2022", type: "youtube", url: "https://www.youtube.com/embed/dXYZnanu6nw" }
+    { title: "Solo concert 2022", type: "youtube", url: "https://www.youtube.com/embed/dXYZnanu6nw" },
+    { title: "Pitch Test", type: "youtube", url: "https://www.youtube.com/embed/wUUO2m9pvBs" }
+
                                                            
 
     // Local video example (put file into /public/videos/ and update path)
