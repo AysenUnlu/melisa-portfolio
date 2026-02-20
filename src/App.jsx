@@ -60,6 +60,7 @@ This page is where I share my favorite shots, artworks, and videos.`,
     { title: "Birding", desc: "I like spotting birds and photographing them." },
     { title: "Drawing", desc: "Sketchbook + digital pieces." },
     { title: "Music", desc: "Concerts, practice clips, and performance videos." },
+    { title: "Legos", desc: "I love building legos and working on projects that mix creativity and problem solving." },
     { title: "Other", desc: "Board games, crafts, and more." },
   ],
  
@@ -97,11 +98,19 @@ This page is where I share my favorite shots, artworks, and videos.`,
   videos: [
     // YouTube embeds: use the EMBED url format: https://www.youtube.com/embed/VIDEO_ID
     { title: "Academy Philarmonic Orchestra", type: "youtube", url: " https://www.youtube.com/embed/g9FxQV4LZos" },
-    { title: "Solo concert 2024", type: "youtube", url: "https://www.youtube.com/embed/_DrIq9_ipvQ?si=BtDlQIxNust560Xz" },
-    { title: "Solo concert 2023", type: "youtube", url: "https://www.youtube.com/embed/xA3rXdMUBlI?si=9honI5L1YBxvIBIS" },
-    { title: "Solo concert 2022", type: "youtube", url: "https://www.youtube.com/embed/dXYZnanu6nw" },
+    { title: "Solo Concert 2024", type: "youtube", url: "https://www.youtube.com/embed/_DrIq9_ipvQ?si=BtDlQIxNust560Xz" },
+    { title: "Solo Concert 2023", type: "youtube", url: "https://www.youtube.com/embed/xA3rXdMUBlI?si=9honI5L1YBxvIBIS" },
+    { title: "Solo Concert 2022", type: "youtube", url: "https://www.youtube.com/embed/dXYZnanu6nw" },
     { title: "Pitch Test", type: "youtube", url: "https://www.youtube.com/embed/wUUO2m9pvBs" },
-    { title: "Elementary School Orchestra", type: "youtube", url: "https://www.youtube.com/embed/UhWg0MWcr3E" }
+    { title: "Elementary School Orchestra", type: "youtube", url: "https://www.youtube.com/embed/UhWg0MWcr3E" },
+    { title: "Solo Concert", type: "youtube", url: "https://www.youtube.com/embed/DZjLiqWXNQo" },
+    { title: "Orchestra", type: "youtube", url: "https://www.youtube.com/embed/v-2SrTkpNtw" },
+    { title: "Sweet Child Of Mine - Guns and Roses", type: "youtube", url: "https://www.youtube.com/embed/W5gXV4f0_UA" },
+    { title: "Oriental", type: "youtube", url: "https://www.youtube.com/embed/rKGiX0Tuhvo" },
+
+
+
+
 
 
                                                            
